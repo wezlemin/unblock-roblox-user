@@ -1,5 +1,5 @@
 # unblock-roblox-user
-Run the script in Trinket: https://trinket.io/embed/python3/a5bd54189b
+Run the script in Trinket: https://trinket.io/embed/python3
 
 ### To get the `.ROBLOSECURITY`, `RBXEventTrackerV2` and `RBXSessionTracker` cookies:
 
