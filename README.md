@@ -1,1 +1,15 @@
 # unblock-roblox-user
+Run the script in Trinket: https://trinket.io/embed/python3/a5bd54189b
+
+### To get the `.ROBLOSECURITY`, `RBXEventTrackerV2` and `RBXSessionTracker` cookies:
+
+* Open **Inspect Element** in your browser (usually by right-clicking the page and selecting “Inspect”)
+* Go to the **Application** tab
+* Click on **Cookies** → `https://www.roblox.com`
+* Find each cookie and copy-paste them when prompted by the script
+
+---
+
+This was created to work around a Roblox bug affecting unblocking.
+
+---
