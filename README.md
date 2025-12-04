@@ -3,10 +3,10 @@ Run the script in Trinket: https://trinket.io/embed/python3
 
 ### To get the `.ROBLOSECURITY`, `RBXEventTrackerV2` and `RBXSessionTracker` cookies:
 
-* Open **Inspect Element** in your browser (usually by right-clicking the page and selecting “Inspect”)
+* Open **Inspect Element** in your browser (usually by right-clicking the page and selecting "Inspect").
 * Go to the **Application** tab
 * Click on **Cookies** → `https://www.roblox.com`
-* Find each cookie and copy-paste them when prompted by the script
+* Find each cookie and copy-paste them when prompted by the script.
 
 ---
 
